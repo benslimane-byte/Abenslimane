@@ -4,10 +4,11 @@
 
 \## 🙋 À propos de moi
 
-
 \- 🎓 En formation \*\*DevOps Azure\*\* chez Simplon
 
 \- 📍 Basé(e) à Toulouse
+ 
+---
 
 \- 💼 Objectif :
 
@@ -43,7 +44,7 @@
 
 \-🚀 Mes projets
 
-| Projet | Description | Technologies |
+| Projet                    | Description                  | Technologies   |
 |---------------------------|------------------------------|----------------|
 | Page de profil GitHub     | Ma première contribution Git | Git, Markdown  |
 | [À venir]                 | [Description]                | [Technologies] |
